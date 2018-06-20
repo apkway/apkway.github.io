@@ -5,9 +5,6 @@ date: 2018-06-18T17:15:26Z
 last_modified_at: 2018-06-19T06:38:30Z
 header:
   teaser: "https://apk4free.net/wp-content/uploads/2016/02/hhihi.png"
-categories: 
-  - Hip-Hop/Rap
-  - Single
 tags:
   - Nicki Minaj
 toc: true
