@@ -24,6 +24,7 @@ categories:
 tags:
   - Nicki Minaj
 toc: true
+toc_sticky: true
 toc_label: "Getting Started"
 ---
 
@@ -40,6 +41,7 @@ With Spotify, you have access to a world of music. You can listen to artists and
 * Play any song, any time
 
 ## Spotify Premium features
+
 * Play any song, any time on any device--mobile, tablet, or your computer
 * Download music for offline listening.
 * Enjoy amazing sound quality.
