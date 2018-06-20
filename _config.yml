@@ -16,13 +16,13 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "iPlustify"
+title                    : "ApkWay"
 title_separator          : "-"
-name                     : "iPlustify"
+name                     : "ApkWay"
 description              : "An amazing website."
-url                      : "https://iplustify.github.io"
+url                      : "https://apkway.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "iplustify/iplustify.github.io"
+repository               : "apkway/apkway.github.io"
 teaser                   : "/assets/images/500x300.png"
 breadcrumbs              : true
 words_per_minute         : 200
@@ -100,24 +100,24 @@ analytics:
 
 # Site Author
 author:
-  name             : "iPlustify"
+  name             : "ApkWay"
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : "I am an amazing person."
   location         : "Internet, Global"
-  email            : "iplustify@gmail.com"
-  uri              : "https://iplustify.github.io/"
+  email            : "ApkWay@gmail.com"
+  uri              : "https://apkway.github.io/"
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "iplustify"
+  facebook         : "apkway"
   foursquare       :
   github           :
   gitlab           :
   google_plus      :
   keybase          :
-  instagram        : "iplustify"
+  instagram        : "apkway"
   lastfm           :
   linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
@@ -125,11 +125,11 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          : "_rendyruslan"
+  twitter          : "_apkway"
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://youtube.com/c/iplustify"
+  youtube          : "https://youtube.com/c/apkway"
 
 
 # Reading Files
