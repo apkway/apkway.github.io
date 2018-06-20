@@ -5,12 +5,26 @@ date: 2018-06-18T17:15:26Z
 last_modified_at: 2018-06-19T06:38:30Z
 header:
   teaser: "https://apk4free.net/wp-content/uploads/2016/02/hhihi.png"
+gallery:
+  - url: /assets/images/unsplash-gallery-image-1.jpg
+    image_path: assets/images/unsplash-gallery-image-1-th.jpg
+    alt: "placeholder image 1"
+  - url: /assets/images/unsplash-gallery-image-2.jpg
+    image_path: assets/images/unsplash-gallery-image-2-th.jpg
+    alt: "placeholder image 2"
+  - url: /assets/images/unsplash-gallery-image-3.jpg
+    image_path: assets/images/unsplash-gallery-image-3-th.jpg
+    alt: "placeholder image 3"
 categories: 
   - Hip-Hop/Rap
   - Single
 tags:
   - Nicki Minaj
+toc: true
+toc_label: "Getting Started"
 ---
+
+{% include gallery caption="This is a sample gallery to go along with this case study." %}
 
 Spotify is now free on mobile and tablet. Listen to the right music, wherever you are. 
 
