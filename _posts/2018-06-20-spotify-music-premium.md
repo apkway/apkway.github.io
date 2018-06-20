@@ -53,6 +53,8 @@ With Spotify, you have access to a world of music. You can listen to artists and
 
 ## How To Install ? 
 
+### Note: Some server-side features require paid subscription.
+
 * Uninstall any Previous Version of Spotify Music (Skip If Not Installed)
 * Download and Install MOD APK From The Links Given Below.
 * Done, Enjoy Spotify Premium
