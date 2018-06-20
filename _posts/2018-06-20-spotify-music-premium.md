@@ -5,19 +5,6 @@ date: 2018-06-18T17:15:26Z
 last_modified_at: 2018-06-19T06:38:30Z
 header:
   teaser: "https://apk4free.net/wp-content/uploads/2016/02/hhihi.png"
-gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
 categories: 
   - Hip-Hop/Rap
   - Single
@@ -28,19 +15,24 @@ toc_sticky: true
 toc_label: "Getting Started"
 ---
 
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
+<figure class="half">
+    <a href="/assets/images/unsplash-gallery-image-1.jpg"><img src="/assets/images/unsplash-gallery-image-1.jpg"></a>
+    <a href="/assets/images/unsplash-gallery-image-2.jpg"><img src="/assets/images/unsplash-gallery-image-2.jpg"></a>
+    <a href="/assets/images/unsplash-gallery-image-2.jpg"><img src="/assets/images/unsplash-gallery-image-2.jpg"></a>
+    <a href="/assets/images/unsplash-gallery-image-2.jpg"><img src="/assets/images/unsplash-gallery-image-2.jpg"></a>
+</figure>
 
 Spotify is now free on mobile and tablet. Listen to the right music, wherever you are. 
 
 With Spotify, you have access to a world of music. You can listen to artists and albums, or create your own playlist of your favorite songs. Want to discover new music? Choose a ready-made playlist that suits your mood or get personalized recommendations.
 
-#### Listen for free on mobile
+### Listen for free on mobile
 * Play any artist, album, or playlist on shuffle mode
 
-#### Listen for free on tablet
+### Listen for free on tablet
 * Play any song, any time
 
-### Spotify Premium features
+## Spotify Premium features
 
 * Play any song, any time on any device--mobile, tablet, or your computer
 * Download music for offline listening.
@@ -48,7 +40,7 @@ With Spotify, you have access to a world of music. You can listen to artists and
 * No ads – just uninterrupted music.
 * No commitment - cancel any time you like.
 
-### Spotify Mod features…
+## Spotify Mod features…
 
 * Unlocked Spotify Connect:
 * Seek FWD button added to information bar/tablet mod
@@ -60,9 +52,9 @@ With Spotify, you have access to a world of music. You can listen to artists and
 * Extreme audio unlocked
 * Repeats enabled
 
-#### Note: Some server-side features require paid subscription.
+### Note: Some server-side features require paid subscription.
 
-### How To Install ? 
+## How To Install ? 
 
 * Uninstall any Previous Version of Spotify Music (Skip If Not Installed)
 * Download and Install MOD APK From The Links Given Below.
