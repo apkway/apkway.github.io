@@ -59,6 +59,8 @@ Genres: Pop, Music
   
 
 [Download](http://zipansion.com/1cods){:target="_blank"}{: .btn .btn--danger}
+
+<a href='https://play.google.com/store/apps/details?id=com.spotify.music&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/></a>
 {: style="text-align: center;"}
 
 
