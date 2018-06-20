@@ -34,13 +34,13 @@ Spotify is now free on mobile and tablet. Listen to the right music, wherever yo
 
 With Spotify, you have access to a world of music. You can listen to artists and albums, or create your own playlist of your favorite songs. Want to discover new music? Choose a ready-made playlist that suits your mood or get personalized recommendations.
 
-### Listen for free on mobile
+#### Listen for free on mobile
 * Play any artist, album, or playlist on shuffle mode
 
-### Listen for free on tablet
+#### Listen for free on tablet
 * Play any song, any time
 
-## Spotify Premium features
+### Spotify Premium features
 
 * Play any song, any time on any device--mobile, tablet, or your computer
 * Download music for offline listening.
@@ -48,7 +48,7 @@ With Spotify, you have access to a world of music. You can listen to artists and
 * No ads – just uninterrupted music.
 * No commitment - cancel any time you like.
 
-## Spotify Mod features…
+### Spotify Mod features…
 
 * Unlocked Spotify Connect:
 * Seek FWD button added to information bar/tablet mod
@@ -60,9 +60,9 @@ With Spotify, you have access to a world of music. You can listen to artists and
 * Extreme audio unlocked
 * Repeats enabled
 
-### Note: Some server-side features require paid subscription.
+#### Note: Some server-side features require paid subscription.
 
-## How To Install ? 
+### How To Install ? 
 
 * Uninstall any Previous Version of Spotify Music (Skip If Not Installed)
 * Download and Install MOD APK From The Links Given Below.
