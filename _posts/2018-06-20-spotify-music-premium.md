@@ -53,8 +53,6 @@ Listen for free on tablet
 
 ## How To Install ? 
 
-### Note: Some server-side features require paid subscription.
-
 * Uninstall any Previous Version of Spotify Music (Skip If Not Installed)
 * Download and Install MOD APK From The Links Given Below.
 * Done, Enjoy Spotify Premium
