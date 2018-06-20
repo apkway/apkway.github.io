@@ -15,6 +15,9 @@ gallery:
   - url: /assets/images/unsplash-gallery-image-3.jpg
     image_path: assets/images/unsplash-gallery-image-3-th.jpg
     alt: "placeholder image 3"
+  - url: /assets/images/unsplash-gallery-image-3.jpg
+    image_path: assets/images/unsplash-gallery-image-3-th.jpg
+    alt: "placeholder image 3"
 categories: 
   - Hip-Hop/Rap
   - Single
@@ -30,20 +33,20 @@ Spotify is now free on mobile and tablet. Listen to the right music, wherever yo
 
 With Spotify, you have access to a world of music. You can listen to artists and albums, or create your own playlist of your favorite songs. Want to discover new music? Choose a ready-made playlist that suits your mood or get personalized recommendations.
 
-Listen for free on mobile
-• Play any artist, album, or playlist on shuffle mode
+### Listen for free on mobile
+* Play any artist, album, or playlist on shuffle mode
 
-Listen for free on tablet
-• Play any song, any time
+### Listen for free on tablet
+* Play any song, any time
 
-Spotify Premium features
-• Play any song, any time on any device--mobile, tablet, or your computer
-• Download music for offline listening.
-• Enjoy amazing sound quality.
-• No ads – just uninterrupted music.
-• No commitment - cancel any time you like.
+## Spotify Premium features
+* Play any song, any time on any device--mobile, tablet, or your computer
+* Download music for offline listening.
+* Enjoy amazing sound quality.
+* No ads – just uninterrupted music.
+* No commitment - cancel any time you like.
 
-Spotify Mod features…
+## Spotify Mod features…
 
 * Unlocked Spotify Connect:
 * Seek FWD button added to information bar/tablet mod
@@ -55,9 +58,9 @@ Spotify Mod features…
 * Extreme audio unlocked
 * Repeats enabled
 
-Note: Some server-side features require paid subscription.
+### Note: Some server-side features require paid subscription.
 
-How To Install ? 
+## How To Install ? 
 
 * Uninstall any Previous Version of Spotify Music (Skip If Not Installed)
 * Download and Install MOD APK From The Links Given Below.
